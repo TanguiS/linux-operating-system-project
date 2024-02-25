@@ -1,0 +1,10 @@
+IndentWidth: 4
+UseTab: Never
+AllowShortIfStatementsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: Empty
+ColumnLimit: 0
+SpacesInConditionalStatement: true
+SpacesInParentheses: true
+PointerAlignment: Left
+BreakBeforeBraces: Allman
